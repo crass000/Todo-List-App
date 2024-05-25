@@ -3,7 +3,6 @@ A simple and interactive Todo List application built with HTML, CSS, and JavaScr
 
 Features
 Add Task: Easily add new tasks to your todo list.
-
 Delete Task: Remove tasks that are no longer needed.
 
 Mark as Completed: Mark tasks as completed to differentiate between pending and completed tasks.
